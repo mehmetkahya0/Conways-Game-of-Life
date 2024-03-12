@@ -1,4 +1,4 @@
-let boxWid = 25; // Width of each cell
+let boxWid = 20; // Width of each cell
 let tableArr = []; //2D array of grid. 1 - Alive, 0 - Dead
 let fps = 30; // 30 fps at start, 2 fps when game is active
 gridLn = 30; // Grid is size gridLn x gridLn
